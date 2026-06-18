@@ -1,6 +1,6 @@
 # Breast Cancer Gene Expression Analysis
 
-![Project Poster](final poster.png)
+![Project Poster](./final%20poster.png)
 
 ## Overview
 
